@@ -1,0 +1,18 @@
+header{
+			background-color:black;
+			height:50px;
+			width:auto;
+
+		}
+		img{
+			float:left;
+		}
+		h1{
+			float:centre;
+			color: rgb(232, 213, 196);
+
+			}
+			.col-md-3{
+				text-align: center;
+			}
+		
